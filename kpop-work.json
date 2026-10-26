@@ -1,0 +1,717 @@
+{
+  "formatVersion": 1,
+  "id": "kpop-phone-life",
+  "title": "韩娱嫂嫂模拟器",
+  "description": "独立虚构手机作品；人物聊天与关系不代表现实。",
+  "category": "互动手机故事",
+  "cover": "",
+  "updatedAt": 1,
+  "phone": {
+    "owner": "나",
+    "date": "2026-10-26",
+    "passcode": "0423",
+    "wallpaper": "apple-wwdc26",
+    "theme": "light",
+    "time": "09:41",
+    "battery": 94,
+    "network": "5G",
+    "notifications": true
+  },
+  "apps": [
+    {
+      "id": "lysn",
+      "name": "LYSN",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "twitter",
+      "name": "X",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "calendar",
+      "name": "캘린더",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "photos",
+      "name": "사진",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "notes",
+      "name": "메모",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "maps",
+      "name": "지도",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "settings",
+      "name": "설정",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "phone",
+      "name": "전화",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "kakao",
+      "name": "카카오톡",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "messages",
+      "name": "메시지",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "camera",
+      "name": "카메라",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "weather",
+      "name": "날씨",
+      "installed": true,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "contacts",
+      "name": "通讯录",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "safari",
+      "name": "浏览器",
+      "installed": false,
+      "visible": false,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "mail",
+      "name": "邮件",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "clock",
+      "name": "时钟",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "reminders",
+      "name": "提醒事项",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "files",
+      "name": "文件",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "music",
+      "name": "音乐",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "wallet",
+      "name": "钱包",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "health",
+      "name": "健康",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "find",
+      "name": "查找",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "calculator",
+      "name": "计算器",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "wechat",
+      "name": "微信",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "qq",
+      "name": "QQ",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "weibo",
+      "name": "微博",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "redbook",
+      "name": "小红书",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "douyin",
+      "name": "抖音",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "bilibili",
+      "name": "哔哩哔哩",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "alipay",
+      "name": "支付宝",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "taobao",
+      "name": "淘宝",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "netease",
+      "name": "网易云音乐",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "delivery",
+      "name": "外卖",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "forum",
+      "name": "论坛",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "line",
+      "name": "LINE",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "messenger",
+      "name": "Messenger",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "appstore",
+      "name": "App Store",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "threads",
+      "name": "Threads",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    }
+  ],
+  "data": {
+    "weather": [
+      {
+        "id": "kpop.weather",
+        "title": "서울",
+        "body": "",
+        "richText": "",
+        "meta": {
+          "temperature": "21",
+          "condition": "맑음 · H:24° L:17°"
+        },
+        "time": "2026-10-26 09:41",
+        "sender": "나",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ],
+    "calendar": [
+      {
+        "id": "studio.visit",
+        "title": "공개 스튜디오 행사",
+        "body": "可选：参加公开工作室活动",
+        "richText": "",
+        "meta": {},
+        "time": "14:00",
+        "sender": "나",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dance.visit",
+        "title": "댄스 워크숍",
+        "body": "可选：参加舞蹈工作坊",
+        "richText": "",
+        "meta": {},
+        "time": "16:00",
+        "sender": "나",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "music.visit",
+        "title": "음악 워크숍",
+        "body": "可选：参加音乐工作坊",
+        "richText": "",
+        "meta": {},
+        "time": "17:00",
+        "sender": "나",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "art.visit",
+        "title": "그림 모임",
+        "body": "可选：参加绘画交流",
+        "richText": "",
+        "meta": {},
+        "time": "18:00",
+        "sender": "나",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "basketball.visit",
+        "title": "농구 모임",
+        "body": "可选：参加篮球活动",
+        "richText": "",
+        "meta": {},
+        "time": "19:00",
+        "sender": "나",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "id": "unlock.jaemin",
+      "label": "活动解锁 jaemin",
+      "type": "event",
+      "event": "read",
+      "target": "studio.visit",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "kpop.unlock.jaemin",
+          "value": true
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "unlock.jisung",
+      "label": "活动解锁 jisung",
+      "type": "event",
+      "event": "read",
+      "target": "dance.visit",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "kpop.unlock.jisung",
+          "value": true
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "unlock.haechan",
+      "label": "活动解锁 haechan",
+      "type": "event",
+      "event": "read",
+      "target": "music.visit",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "kpop.unlock.haechan",
+          "value": true
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "unlock.renjun",
+      "label": "活动解锁 renjun",
+      "type": "event",
+      "event": "read",
+      "target": "art.visit",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "kpop.unlock.renjun",
+          "value": true
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "unlock.chenle",
+      "label": "活动解锁 chenle",
+      "type": "event",
+      "event": "read",
+      "target": "basketball.visit",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "kpop.unlock.chenle",
+          "value": true
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "variables": {
+    "kpop.unlock.jaemin": false,
+    "kpop.unlock.jisung": false,
+    "kpop.unlock.haechan": false,
+    "kpop.unlock.renjun": false,
+    "kpop.unlock.chenle": false
+  },
+  "mode": "mixed"
+}
