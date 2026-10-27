@@ -45,3 +45,7 @@
 .kw-detail-body{white-space:pre-line;background:#1c1c1e;border-radius:14px;text-align:left;padding:20px;font-size:16px;line-height:1.9}
 .kw-empty{color:#969699;padding:25px 0;text-align:center}
 @media(max-width:340px){.kw-scroll{padding-left:12px;padding-right:12px}.kw-transaction{gap:9px;padding:13px 10px}.kw-transaction-copy strong{font-size:15px}.kw-amount{font-size:15px}}
+.ios18 .phone-screen:has(.kw-wallet){background:#000!important}
+.ios18 .phone-screen:has(.kw-wallet) .status-bar{background:#242424!important;color:#fff!important}
+.ios18 .phone-screen:has(.kw-wallet) .home-indicator{background:#000!important}
+.ios18 .phone-screen:has(.kw-wallet) .home-indicator:after{background:#fff!important}
