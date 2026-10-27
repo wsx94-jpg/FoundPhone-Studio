@@ -154,6 +154,15 @@
       "icon": ""
     },
     {
+      "id": "wallet",
+      "name": "지갑 · 钱包",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
       "id": "contacts",
       "name": "通讯录",
       "installed": false,
@@ -210,15 +219,6 @@
     {
       "id": "music",
       "name": "音乐",
-      "installed": false,
-      "visible": false,
-      "dock": false,
-      "folder": "",
-      "icon": ""
-    },
-    {
-      "id": "wallet",
-      "name": "钱包",
       "installed": false,
       "visible": false,
       "dock": false,
