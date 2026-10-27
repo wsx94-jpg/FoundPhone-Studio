@@ -5,7 +5,7 @@
   "description": "独立虚构手机作品；人物聊天与关系不代表现实。",
   "category": "互动手机故事",
   "cover": "",
-  "updatedAt": 3,
+  "updatedAt": 4,
   "phone": {
     "owner": "나",
     "date": "2026-10-26",
@@ -705,6 +705,32 @@
           "cardType": "银行卡",
           "amount": "持卡人：李帝努",
           "bank": "韩国银行"
+        }
+      },
+      {
+        "richText": "",
+        "time": "",
+        "avatar": "",
+        "kind": "text",
+        "media": "",
+        "hidden": false,
+        "unlock": "",
+        "password": "",
+        "folder": "交易",
+        "favorite": false,
+        "outgoing": false,
+        "read": false,
+        "likes": 0,
+        "comments": [],
+        "id": "wallet.transaction.transport",
+        "title": "交通",
+        "sender": "T-money卡",
+        "body": "消费类别：交通\n支付卡：T-money卡",
+        "meta": {
+          "amount": "",
+          "paymentMethod": "T-money卡",
+          "cardId": "wallet.tmoney",
+          "category": "交通"
         }
       }
     ]
