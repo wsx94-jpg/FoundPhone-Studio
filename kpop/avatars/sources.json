@@ -7,5 +7,23 @@
     "lysn-jisung.jpg": "0bd19bc0a878774575f9c71d95d11fba0f36e0de61aad1e7a9eec2d836546c5d",
     "lysn-renjun.jpg": "f5fa30e0bc46607146d7c88d7d5e2a09a974bda32d603f3905c46830aded1ca8",
     "lysn-haechan.jpg": "3df677ee04fe195974697be810d8875638dab506d00c1cfae63072ddfcbfdc05"
+  },
+  "photo_zip": {
+    "1": {
+      "path": "kpop/avatars/lysn-jeno.jpg",
+      "sha256": "10d2732b2f36ce8889047cc26306f67a051db5f966ddf13b4ded9f464d78b39f"
+    },
+    "2": {
+      "path": "kpop/avatars/jeno-main-v2.jpg",
+      "sha256": "193b4cd9eaeaa7cb6c28847c6409e905bb1aa4cf80738d5dbcad13c1ac5a3ff4"
+    },
+    "3": {
+      "path": "kpop/avatars/jeno-alt.jpg",
+      "sha256": "c7b57f1009d7a7b6743fe87bfd2050df7298d9c39ff4000da493ecd0feb34f57"
+    },
+    "4": {
+      "path": "kpop/wallpaper.jpg",
+      "sha256": "8b2dd1cd310a9ea5dc45590011fc4af5804681b637e6f76cb57c2b58319cdfbd"
+    }
   }
 }
