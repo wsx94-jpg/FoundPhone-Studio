@@ -5,7 +5,7 @@
   "description": "独立虚构手机作品；人物聊天与关系不代表现实。",
   "category": "互动手机故事",
   "cover": "",
-  "updatedAt": 2,
+  "updatedAt": 3,
   "phone": {
     "owner": "나",
     "date": "2026-10-26",
@@ -620,12 +620,14 @@
         "likes": 0,
         "comments": [],
         "id": "wallet.player",
-        "title": "玩家的银行卡",
+        "title": "银行卡",
         "sender": "玩家",
-        "body": "持卡人：玩家",
+        "body": "首尔银行\n持卡人：玩家",
         "meta": {
-          "number": "",
-          "cardType": "银行卡"
+          "number": "首尔银行",
+          "cardType": "银行卡",
+          "amount": "持卡人：玩家",
+          "bank": "首尔银行"
         }
       },
       {
@@ -646,10 +648,11 @@
         "id": "wallet.tmoney",
         "title": "T-money卡",
         "sender": "玩家",
-        "body": "交通卡",
+        "body": "交通卡\n卡面：天蓝色",
         "meta": {
-          "number": "",
-          "cardType": "交通卡"
+          "number": "交通卡",
+          "cardType": "交通卡",
+          "color": "#87CEEB"
         }
       },
       {
@@ -668,14 +671,14 @@
         "likes": 0,
         "comments": [],
         "id": "wallet.stronger",
-        "title": "Stronger",
+        "title": "Stronger健身房",
         "sender": "玩家",
         "body": "转赠卡\n转赠人：李帝努",
         "meta": {
-          "number": "",
-          "cardType": "转赠卡",
+          "number": "转赠卡",
+          "cardType": "健身房会员卡",
           "giftFrom": "李帝努",
-          "amount": "转赠卡 · 转赠人：李帝努"
+          "amount": "转赠人：李帝努"
         }
       },
       {
@@ -696,10 +699,12 @@
         "id": "wallet.jeno",
         "title": "李帝努的银行卡",
         "sender": "李帝努",
-        "body": "持卡人：李帝努",
+        "body": "韩国银行\n持卡人：李帝努",
         "meta": {
-          "number": "",
-          "cardType": "银行卡"
+          "number": "韩国银行",
+          "cardType": "银行卡",
+          "amount": "持卡人：李帝努",
+          "bank": "韩国银行"
         }
       }
     ]
