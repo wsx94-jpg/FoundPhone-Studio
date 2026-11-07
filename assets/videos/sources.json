@@ -1,0 +1,30 @@
+[
+  {
+    "source": "视频.zip/视频/开头.mp4",
+    "file": "assets/videos/kakaotalk/opening-call.mp4",
+    "sha256": "cea77589ec59031c0891af4ff2c0aaa2732bf23bd531cd2cbd3006f2c28e98f6",
+    "audioFile": "assets/videos/kakaotalk/opening-call-audio.m4a",
+    "audioSha256": "4e2c123279d8e12721e83c53ebda4dc8b58a38d2fc819d7c069afbe3a02d1794",
+    "audioPacketsSha256": "3288f288764b3a1231e5eb952cca413bba29587213f7e0d2a95d03c6f3c38b20",
+    "additionalOriginalSources": [
+      "IMG_2194.MP4"
+    ],
+    "currentOpeningSource": "IMG_2194.MP4"
+  },
+  {
+    "source": "视频.zip/视频/IG1.mp4",
+    "file": "assets/videos/instagram/reels-01.mp4",
+    "sha256": "063e87fc2924a84a3f03ecd82fe973a858f8f19ea404ca27c4dc398f02b97822",
+    "compatibleFile": "assets/videos/instagram/reels-01-h264.mp4",
+    "compatibleSha256": "3871a8464b7173863cdc63865df5e4a2f1e18b56dd9df9a21a8167176a6628ae",
+    "audioPacketsSha256": "e27df0806418746755c0a9e7369cd8f8d198eaebe2bd9ea5a3a073bff02c8d88"
+  },
+  {
+    "source": "视频.zip/视频/IG2.mp4",
+    "file": "assets/videos/instagram/reels-02.mp4",
+    "sha256": "913c93831b27a92869c58995d58dc47b8ecb13d53a8201a86bf25546d74106cd",
+    "compatibleFile": "assets/videos/instagram/reels-02-h264.mp4",
+    "compatibleSha256": "4fb37492843c3e556557531e4b885e9dc6935704b7563ac5d3b0dc022996121a",
+    "audioPacketsSha256": "7204f0317668e57e59abf51e7f2d24cddb05e2765895fbffef78f186bc49cdf1"
+  }
+]
